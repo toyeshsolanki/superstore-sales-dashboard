@@ -28,12 +28,12 @@ The project transforms raw retail data into meaningful business insights using M
 
 ## Key Performance Indicators
 
-| KPI           |  Value        |
-|---            |---           :|
-| Total Sales   | $2,297,200.86 |
-| Total Profit  | $286,397.02   |
-| Total Orders  | 5,009         |
-| Profit Margin | 12.47%        |
+| KPI | Value |
+|---|---:|
+| Total Sales | $2,297,200.86 |
+| Total Profit | $286,397.02 |
+| Total Orders | 5,009 |
+| Profit Margin | 12.47% |
 
 ---
 
